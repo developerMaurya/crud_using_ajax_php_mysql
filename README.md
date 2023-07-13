@@ -68,11 +68,9 @@ Contributions are welcome! If you would like to enhance this project or fix any 
 
 Please ensure your code follows the existing coding style and includes appropriate documentation.
 
-## License
+## Image
+![image](https://github.com/developerMaurya/crud_using_ajax_php_mysql/assets/137375643/45466676-8d02-4822-8031-3da556b4d5cc)
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
-
-## Acknowledgments
 
 - This project was inspired by the need to demonstrate CRUD operations using AJAX and PHP.
 - Thanks to the contributors who helped improve this project.
